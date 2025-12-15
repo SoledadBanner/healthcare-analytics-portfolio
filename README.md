@@ -25,8 +25,8 @@ SQL-style logic • Excel (Pivot Tables, XLOOKUP) • Python (pandas) using synt
 - Monthly KPI summary table  
 - Example pivot layout used for physician and leadership reporting
 - **Example Output (Synthetic Data)**
-
 ![Monthly Monitoring KPI Example](monitoring-revenue/example_monthly_kpi.png)
+
 
 
 
