@@ -29,6 +29,7 @@ SQL-style logic • Excel (Pivot Tables, XLOOKUP) • Python (pandas) using synt
 ![Monthly Monitoring KPI Example](monitoring-revenue/example_monthly_kpi.png)
 
 
+
 ---
 
 ### 2) Patient Experience Survey Reporting
